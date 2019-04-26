@@ -1,0 +1,10 @@
+C:\Users\Chimee\source\repos\GK1\lab3\lab3\bin\Release\lab3.exe.config
+C:\Users\Chimee\source\repos\GK1\lab3\lab3\bin\Release\lab3.exe
+C:\Users\Chimee\source\repos\GK1\lab3\lab3\bin\Release\lab3.pdb
+C:\Users\Chimee\source\repos\GK1\lab3\lab3\obj\Release\lab3.Form1.resources
+C:\Users\Chimee\source\repos\GK1\lab3\lab3\obj\Release\lab3.Properties.Resources.resources
+C:\Users\Chimee\source\repos\GK1\lab3\lab3\obj\Release\lab3.csproj.GenerateResource.cache
+C:\Users\Chimee\source\repos\GK1\lab3\lab3\obj\Release\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Chimee\source\repos\GK1\lab3\lab3\obj\Release\lab3.exe
+C:\Users\Chimee\source\repos\GK1\lab3\lab3\obj\Release\lab3.pdb
+C:\Users\Chimee\source\repos\GK1\lab3\lab3\obj\Release\lab3.csprojAssemblyReference.cache
