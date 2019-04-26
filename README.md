@@ -1,3 +1,3 @@
 # ImageDithering
-ImageDithering by various types of dithering
+ImageDithering by various types of dithering,
 Windows Forms Application
